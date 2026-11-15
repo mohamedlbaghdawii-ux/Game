@@ -1,0 +1,6 @@
+{
+  "name": "Mini Battle Arena",
+  "description": "3D side-view multiplayer arcade shooter with 6 maps, 4 game modes, up to 12 players over offline Wi-Fi/Hotspot LAN or vs AI bots, character customization, and Armory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
